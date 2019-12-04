@@ -1,0 +1,16 @@
+{
+  "name": "pm-encoder",
+  "version": "1.0.0",
+  "description": "PM-Encoder es una librería open source con la que se pueden cifrar y descifrar cadenas de texto desde una aplicación con tecnologías basadas en JavaScript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCriss/pm-encoder.git"
+  },
+  "author": "Christian De La Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevCriss/pm-encoder/issues"
+  },
+  "homepage": "https://github.com/DevCriss/pm-encoder#readme"
+}
