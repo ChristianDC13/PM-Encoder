@@ -1,5 +1,5 @@
 
-  encodeString = function(originalText, key){
+ function encodeString(originalText, key){
 
     const chars = originalText.split('');
     const keys = key.split('');
@@ -18,7 +18,7 @@
     return output;
   }
   
-  decodeString = function(encodedText, key){
+ function decodeString(encodedText, key){
 
     const chars = encodedText.split('');
     const keys = key.split('');

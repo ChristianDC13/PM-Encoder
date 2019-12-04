@@ -1,6 +1,6 @@
 {
   "name": "pm-encoder",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "PM-Encoder es una librería open source con la que se pueden cifrar y descifrar cadenas de texto desde una aplicación con tecnologías basadas en JavaScript.",
   "main": "index.js",
   "repository": {
